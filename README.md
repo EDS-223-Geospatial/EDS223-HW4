@@ -1,2 +1,3 @@
-# EDS223-HW4
-Homework Assignment #4 for EDS 223 (Geospatial Analysis and Remote Sensing)
+# EDS 223 Homework Assighment #4
+
+Relevant data available [here](https://drive.google.com/file/d/1u-iwnPDbe6ZK7wSFVMI-PpCKaRQ3RVmg/view?usp=drive_link).
